@@ -1,8 +1,8 @@
 Hi, I'm Melody! 👋
 
-👩‍💻 I am a full-stack software developer with almost 17 years of experience in
-building enterprise-level applications and integrations. I have a proven record
-for delivering innovative and creative solutions on time and under budget. I've
+👩‍💻 I am a full-stack software developer with 18 years of experience in building
+enterprise-level applications and integrations. I have a proven record for
+delivering innovative and creative solutions on time and under budget. I've
 written software for a wide variety of industries but my biggest areas have been
 in higher education (user portals, SIS and LMS integrations) and ERP/LOB
 applications (focused in the fire & life safety industry).

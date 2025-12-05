@@ -1,12 +1,17 @@
-<h2 style="display:flex;align-items:flex-end;">Melody Kimball (she/her)<span style="flex-grow:1;text-align:right;font-size:1rem;font-weight:initial;">melody@forestkimball.com &bullet; (678) 333-7298 &bullet; Statesboro, GA</span></h2>
-
+## Melody Kimball (she/her)
 &#x1F469;&#x200D;&#x1F4BB; I am a full-stack software developer with 18 years of experience in building enterprise-level applications and integrations. I have a proven record for delivering innovative and creative solutions on time and under budget. I've written software for a wide variety of industries but my biggest areas have been in higher education (user portals, SIS and LMS integrations) and ERP/LOB applications (focused in the fire & life safety industry).</p>
 
 &#x1F308; I am an open and proud transgender woman. I strive everyday to be the most authentic version of myself, and I try to inspire and empower others to do the same. I do the best I can to treat everyone with compassion and empathy, and I try leave the world a better place than how I found it.</p>
 
+Email: melody@forestkimball.com &bullet; Phone: (678) 333-7298 &bullet; Location: Statesboro, GA
+
 ## Professional Experience
 
-<h4 style="display:flex;">GEORGIA STATE UNIVERSITY, Atlanta, GA<span style="flex-grow:1;text-align:right;">March 2020 &mdash; Present</span></h4>
+<details open>
+
+<summary>Professional Experience</summary>
+
+#### GEORGIA STATE UNIVERSITY, Atlanta, GA (March 2020 &mdash; Present)
 
 <div><strong>Lead Application Developer</strong>, <em>March 2022 &mdash; present</em></div>
 
@@ -15,7 +20,7 @@
 * Built an entire process to extract, transform, and load data (ETL) from the learning management system (D2L Brightspace) into the University's central data warehouse (Pentaho).
 * Designed and built PHP libraries for easier integration into the University's enterprise systems (e.g., D2L, Banner, WebEx, Active Directory). This has significantly reduced the time to deliver solutions using these systems and allowed a small team of 2 developers to standardize and maintain a wide range of custom applications and integrations.
 
-<h4 style="display:flex;">GEORGIA SOUTHERN UNIVERSITY, Statesboro, GA<span style="flex-grow:1;text-align:right;">July 2015 &mdash; February 2022</span></h4>
+#### GEORGIA SOUTHERN UNIVERSITY, Statesboro, GA (July 2015 &mdash; February 2022)
 
 <div><strong>Director of Software Development</strong>, <em>December 2018 &mdash; February 2022</em></div>
 
@@ -29,42 +34,44 @@
 * Technical lead for Georgia Southern's IAM processes (SSO using CAS / SAML2; automatic account creation/suspension/deletion in Active Directory/Google/Oracle)
 * Refactored Georgia Southern's automated PHP processes between the student information system (Ellucian Banner) and other enterprise systems. This resulted in a significant reduction in runtime (hours to <15 minutes)
 
-<h4 style="display:flex;">BRAVEPOINT, INC., Norcross, GA<span style="flex-grow:1;text-align:right;">August 2007 &mdash; June 2015</span></h4>
+#### BRAVEPOINT, INC., Norcross, GA (August 2007 &mdash; June 2015)
 
 <div><strong>Software Consultant</strong>, <em>August 2007 &mdash; June 2015</em></div>
 
 * Served as technical lead/developer/business analyst/sysadmin for a wide variety of projects with a diverse set of clients. This required rapidly learning the business and tech stack.
 * Lead developer for ProfitZoom – an ERP system for field service providers with a focus on the fire and life safety industry.
 
+</details>
+
 ## Education
 
-<h4 style="display:flex;margin-bottom:0;">GEORGIA INSTITUTE OF TECHNOLOG UNIVERSITY, Atlanta, GA<span style="flex-grow:1;text-align:right;"><em>Expected Spring 2028</em></h4>
-<div><strong>Master of Science in Computer Science (OMSCS)</strong></div>
+<details open>
 
-<h4 style="display:flex;margin-bottom:0;">GEORGIA SOUTHERN UNIVERSITY, Statesboro, GA<span style="flex-grow:1;text-align:right;">July 2007</h4>
+<summary>Education</summary>
+
+<br/>
+
+<div>GEORGIA INSTITUTE OF TECHNOLOG UNIVERSITY, Atlanta, GA (<em>Expected Spring 2028</em>)</div>
+<div><strong>Master of Science in Computer Science</strong></div>
+
+<br/>
+
+<div>GEORGIA SOUTHERN UNIVERSITY, Statesboro, GA (July 2007)</div>
 <div><strong>Bachelor of Science in Computer Science</strong></div>
+
+</details>
 
 ## Technical Skills
 
-<div>
-  <div style="display:flex;">
-    <li style="flex:1;">JavaScript, TypeScript</li>
-    <li style="flex:1;">PHP (5.6 to 8.5)</li>
-    <li style="flex:1;">Git, GitHub, GitHub Actions</li>
-  </div>
-  <div style="display:flex;">
-    <li style="flex:1;">React, Redux, Tanstack, MUI</li>
-    <li style="flex:1;">Symfony, PHPStan, Composer</li>
-    <li style="flex:1;">AWS (EC2, S3, Lambda, Bedrock)</li>
-  </div>
-  <div style="display:flex;">
-    <li style="flex:1;">Vite, ESLint, NPM, Node.js</li>
-    <li style="flex:1;">SQL (SQLite, MySQL, Oracle)</li>
-    <li style="flex:1;">SSO (MS Entra, OAuth 2, OIDC)</li>
-  </div>
-  <div style="display:flex;">
-    <li style="flex:1;">Linux, VS Code, SSH</li>
-    <li style="flex:1;">Oracle (PL/SQL, Pro*C)</li>
-    <li style="flex:1;">REST, OpenAPI, JSON, YAML</li>
-  </div>
-</div>
+<details open>
+
+<summary>Technical Skills</summary>
+
+| | | |
+| :-------- | :-------- | :-------- |
+| &bullet; JavaScript, TypeScript | &bullet; PHP (5.6 to 8.5) | &bullet; Git, GitHub, GitHub Actions |
+| &bullet; React, Redux, Tanstack, MUI | &bullet; Symfony, PHPStan, Composer | &bullet; AWS (EC2, S3, Lambda, Bedrock) |
+| &bullet; Vite, ESLint, NPM, Node.js | &bullet; SQL (SQLite, MySQL, Oracle) | &bullet; SSO (MS Entra, OAuth 2, OIDC) |
+| &bullet; Linux, VS Code, SSH | &bullet; Oracle (PL/SQL, Pro*C) | &bullet; REST, OpenAPI, JSON, YAML |
+
+</details>

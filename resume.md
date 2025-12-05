@@ -38,8 +38,6 @@ Email: melody@forestkimball.com &bullet; Phone: (678) 333-7298 &bullet; Location
 
 </details>
 
-<br/>
-
 <details open>
 
 <summary>BRAVEPOINT, INC. &bullet; Norcross, GA &bullet; August 2007 &mdash; June 2015</summary>

@@ -110,7 +110,6 @@
       system. (Oracle, RabbitMQ, Ellucian ILP, IPSIS)</li>
       <li>Served as de facto technical lead for the University's IAM processes. (SSO using OIDC, SAML2, CAS; automated
       account management in Active Directory, Google, Oracle)</li>
-      <li></li>
     </ul>
   </details>
   <details open>
